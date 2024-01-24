@@ -1,0 +1,30 @@
+{
+    "students": [
+      {
+        "name": "Tamer Talhami",
+        "email": "Tamer.Talhami@e.braude.ac.il",
+        "courses": ["Probability", "WEB", "Intro to Cloud Computing", "English"]
+      },
+      {
+        "name": "Firas Amaria",
+        "email": "Firas.amaria@e.braude.ac.il",
+        "courses": ["math1", "math2", "algebra", "cloudComputing"]
+      },
+      {
+        "name": "Muhammed Yassin",
+        "email": "mohammed.yassin@e.brade.ac.il",
+        "courses": ["web", "cloud computing", "krypto", "english"]
+      },
+      {
+        "name": "Fawzi Abo Zhaya",
+        "email": "fawzi.abo.zhaya@e.braude.ac.il",
+        "courses": ["WEB", "cloud computing"]
+      },
+      {
+        "name": "Mustafa Shama",
+        "email": "Mustafa.Shama@e.braude.ac.il",
+        "courses": ["WEB", "cloud computing", "physics"]
+      }
+    ]
+  }
+  

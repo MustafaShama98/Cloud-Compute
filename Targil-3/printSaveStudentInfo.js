@@ -5,6 +5,7 @@ function processInfo(id, name, lastName, address, lang, knowlage) {
 	localStorage.setItem(id, dbString);
 }
 
+
 function stringify(id, name, lastName, address, lang, knowlage) {
 	var nameStr = 'name: ' + name;
 	var lastNameStr = 'lastName: ' + lastName;

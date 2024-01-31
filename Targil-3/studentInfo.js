@@ -53,7 +53,13 @@ function getAllStudent(){
 	}
 	document.getElementById('res').innerHTML = textPrint;
 }
+
+function removeIdFromDb(id){
+	console.log(id);
+	localStorage.removeItem(id);
+}
 function removeIdFunc() {
 	var id = document.getElementById('removeId').value;
 	removeIdFromDb(id);
 }
+

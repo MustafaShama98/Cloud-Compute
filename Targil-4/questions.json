@@ -1,0 +1,46 @@
+{
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "What is the correct syntax to print 'Hello, World!' in Python?",
+            "first_answer": "A) print('Hello, World!')",
+            "second_answer": "B) console.log('Hello, World!')",
+            "third_answer": "C) echo ('Hello, World!')",
+            "fourth_answer": "D) ('Hello, World!')"
+
+        },
+        {
+           "question_number": 2,
+            "question_text": "Which of the following data types in Python is mutable?",
+            "first_answer": "A) int",
+            "second_answer": "B) float",
+            "third_answer": "C) tuple",
+            "fourth_answer": "D) list"
+        },
+                {
+           "question_number": 3,
+           "question_text": "What does the range() function in Python return?",
+           "first_answer": "A) A list of numbers in the specified range",
+           "second_answer": "B) A generator object that yields numbers in the specified range",
+           "third_answer": "C) A tuple containing numbers in the specified range",
+           "fourth_answer": "D) An error because range() is not a valid function in Python"
+
+        },
+        {
+           "question_number": 4,
+           "question_text": "What is the output of the following code snippet?\n\npython\nx = 5\ny = 2\nprint(x / y)\n",
+           "first_answer": "A) 2.5",
+           "second_answer": "B) 2",
+           "third_answer": "C) 2.0",
+           "fourth_answer": "D) Error"
+          },
+        {
+           "question_number": 5,
+           "question_text": "Which of the following statements is true about Python's 'for' loop?",
+           "first_answer": "A) It can only iterate over lists.",
+           "second_answer": "B) It always iterates a fixed number of times.",
+           "third_answer": "C) It can iterate over any sequence.",
+           "fourth_answer": "D) It can only iterate over tuples."
+          }
+    ]
+}

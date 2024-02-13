@@ -6,8 +6,8 @@
             "first_answer": "A) print('Hello, World!')",
             "second_answer": "B) console.log('Hello, World!')",
             "third_answer": "C) echo ('Hello, World!')",
-            "fourth_answer": "D) ('Hello, World!')"
-
+            "fourth_answer": "D) ('Hello, World!')",
+            "correct_answer": "A) print('Hello, World!')"
         },
         {
            "question_number": 2,
@@ -15,16 +15,17 @@
             "first_answer": "A) int",
             "second_answer": "B) float",
             "third_answer": "C) tuple",
-            "fourth_answer": "D) list"
+            "fourth_answer": "D) list",
+            "correct_answer": "D) list"
         },
-                {
+        {
            "question_number": 3,
            "question_text": "What does the range() function in Python return?",
            "first_answer": "A) A list of numbers in the specified range",
            "second_answer": "B) A generator object that yields numbers in the specified range",
            "third_answer": "C) A tuple containing numbers in the specified range",
-           "fourth_answer": "D) An error because range() is not a valid function in Python"
-
+           "fourth_answer": "D) An error because range() is not a valid function in Python",
+           "correct_answer": "B) A generator object that yields numbers in the specified range"
         },
         {
            "question_number": 4,
@@ -32,7 +33,8 @@
            "first_answer": "A) 2.5",
            "second_answer": "B) 2",
            "third_answer": "C) 2.0",
-           "fourth_answer": "D) Error"
+           "fourth_answer": "D) Error",
+           "correct_answer": "A) 2.5"
           },
         {
            "question_number": 5,
@@ -40,7 +42,8 @@
            "first_answer": "A) It can only iterate over lists.",
            "second_answer": "B) It always iterates a fixed number of times.",
            "third_answer": "C) It can iterate over any sequence.",
-           "fourth_answer": "D) It can only iterate over tuples."
-          }
+           "fourth_answer": "D) It can only iterate over tuples.",
+           "correct_answer": "C) It can iterate over any sequence"
+        }
     ]
 }
